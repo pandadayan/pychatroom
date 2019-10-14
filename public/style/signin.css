@@ -1,0 +1,67 @@
+body {
+    background: url(../img/timgLBQ3Z75S.jpg) #f8f6e9;
+}
+
+.signin {
+    width: 477px;
+    height: 479px;
+    background: url(../img/timg.jpg) no-repeat;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -239px;
+    margin-left: -238px;
+}
+
+.signin-head {
+    margin: 0 auto;
+    padding-top: 30px;
+    width: 120px;
+    position: relative;
+}
+
+.signin-sex {
+    position: absolute;
+    left: 40px;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.5);
+    border: 0;
+    width: 40px;
+    height: 30px;
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 43px 15px 15px 15px;
+    margin: 0 auto;
+}
+
+.img-circle {
+    width: 120px;
+    height: 120px;
+}
+
+.form-signin .form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+
+.form-signin input[type="text"] {
+    margin-bottom: 10px;
+    border-radius: 0;
+    color: #767b80;
+}
+
+.form-signin button {
+    border-radius: 0;
+}
